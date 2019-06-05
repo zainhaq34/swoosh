@@ -8,4 +8,10 @@
         league.
     </string>
     <string name="get_started_button_string">GET STARTED</string>
+    <string name="league_screen_bg_string">League Screen BG</string>
+    <string name="desired_league_string">Desired League</string>
+    <string name="mens_string">MENS</string>
+    <string name="womens_string">WOMENS</string>
+    <string name="co_ed_string">Co-Ed</string>
+    <string name="next_string">NEXT</string>
 </resources>
