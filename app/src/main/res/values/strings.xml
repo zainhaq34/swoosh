@@ -14,4 +14,9 @@
     <string name="womens_string">WOMENS</string>
     <string name="co_ed_string">Co-Ed</string>
     <string name="next_string">NEXT</string>
+    <string name="skill_bg_sring">Skill BG</string>
+    <string name="i_am_a_string">I am a:</string>
+    <string name="beginner_string">Beginner</string>
+    <string name="baller_string">Baller</string>
+    <string name="finnish_string">FINNISH</string>
 </resources>
