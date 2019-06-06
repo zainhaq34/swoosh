@@ -18,5 +18,7 @@
     <string name="i_am_a_string">I am a:</string>
     <string name="beginner_string">Beginner</string>
     <string name="baller_string">Baller</string>
-    <string name="finnish_string">FINNISH</string>
+    <string name="finish_string">FINISH</string>
+    <string name="finish_bg_string">Finish BG</string>
+    <string name="finish_text_string">Looking for a co-ed beginner league near you...</string>
 </resources>
